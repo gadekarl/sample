@@ -1,2 +1,2 @@
 # sample
-Sample proj
+Sample project
